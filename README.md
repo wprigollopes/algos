@@ -7,4 +7,3 @@ With video:
 
 Without video:
  - Folder stuff, data from some algos created on spare time
- - Comming soon...
