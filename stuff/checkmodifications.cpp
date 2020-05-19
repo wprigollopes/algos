@@ -2,7 +2,6 @@
 
 using namespace std;
 
-// Complete the isValid function below.
 string isValid(string s) {
     unordered_map<char, long> counts;
     unordered_map<int, long> frequency;
