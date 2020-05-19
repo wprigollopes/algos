@@ -1,6 +1,11 @@
 #include<iostream>
 #include<unordered_map>
 #include<set>
+//
+// LRU Cache - Least Recently Used Cache
+// Uses a technique called Hash Linked List to get a good efficiency on getting and updating cache status
+//
+
 
 using namespace std;
 //
