@@ -1,6 +1,11 @@
 #include<iostream>
 #include<vector>
 #include<unordered_map>
+//
+// Check if two strings are anagrams
+// Using unordered map to check if every element are contained in both strings 
+// O(n) time | O(nm) space
+//
 
 using namespace std;
 int main() {
