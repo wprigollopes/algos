@@ -4,8 +4,12 @@
 
 using namespace std;
 
+//
+// Banner | Water container problem
+// Banner need to be revised by a constraint modification
+//
+
 int solution(vector<int> &H) {
-    // write your code in C++14 (g++ 6.2.0)
     vector<int> fromLeft(H.size(), INT_MIN);
     vector<int> fromRight(H.size(), INT_MIN);
     fromLeft[0] = H[0];
