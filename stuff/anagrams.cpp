@@ -4,6 +4,12 @@
 #include<unordered_map>
 #include<algorithm>
 
+//
+// Check in the same string if the own string is an anagram
+// Based on C++ so, considering 26 letters lowercase on the example
+// 
+
+
 using namespace std;
 // Class with 26 possibilities (26 letters) to count
 class el {
